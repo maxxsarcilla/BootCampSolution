@@ -1,0 +1,15 @@
+/workspaces/BootCampSolution/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/workspaces/BootCampSolution/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/workspaces/BootCampSolution/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/workspaces/BootCampSolution/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/workspaces/BootCampSolution/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/workspaces/BootCampSolution/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
